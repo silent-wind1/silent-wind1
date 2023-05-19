@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Yefeng</h1>
 
-- 🐧 一名在校大学生
-- 👨‍💻 经历：正在努力成为一名程序员
-- 💬 邮箱：2951575706@qq.com
 
 <img src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" width = "250" height = "250" alt=""/>
 
