@@ -6,8 +6,8 @@
 
 ## 今年汇总 ✨
 <div>
- <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lengyingmofeng&hide_title=true&hide_border=tru&show_icons=false&include_all_commits=true&line_height=21&bg_color=0000&text_color=8A919F&locale=cn" /> 
- <img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengyingmofeng&hide_title=true&hide=html&layout=compact&bg_color=0000&text_color=8A919F&locale=cn" />
+ <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=lengyingmofeng&hide_title=true&hide_border=tru&show_icons=false&include_all_commits=true&line_height=21&bg_color=0000&text_color=8A919F&locale=cn" /> 
+ <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengyingmofeng&hide_title=true&hide=html&layout=compact&bg_color=0000&text_color=8A919F&locale=cn" />
 
 ## 当前页面访问计数
 
