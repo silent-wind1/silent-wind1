@@ -14,9 +14,7 @@
 <div align="center">
  
  ![adlered](https://count.getloli.com/get/@lengyingmofeng)
- 
+<img  src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" alt="图像正在努力加载中.." style="width: 300px; height: 300px; display: init-block ;margin:10px auto;border:2px dashed blue;"/>
 </div>
-<div align="center">
- <img  src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" alt="图像正在努力加载中.." style="width: 300px; height: 300px; display: init-block ;margin:10px auto;border:2px dashed blue;"/>
-</div>
+
 
