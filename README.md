@@ -17,6 +17,6 @@
  
 </div>
 <div align="center">
- <img  src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" alt="图像正在努力加载中.." style="width: 500px; height: 500px; display: init-block ;margin:10px auto;border:2px dashed blue;"/>
+ <img  src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" alt="图像正在努力加载中.." style="width: 300px; height: 300px; display: init-block ;margin:10px auto;border:2px dashed blue;"/>
 </div>
 
