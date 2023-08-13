@@ -23,6 +23,7 @@ YAML             45 mins         #------------------------   05.22 %
 Python           14 mins         -------------------------   01.61 %
 GitIgnore file   10 mins         -------------------------   01.16 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## ✨ Page visits  
