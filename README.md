@@ -23,13 +23,12 @@ YAML             45 mins         #------------------------   05.22 %
 Python           14 mins         -------------------------   01.61 %
 GitIgnore file   10 mins         -------------------------   01.16 %
 ```
-
 <!--END_SECTION:waka-->
-## Page visits
 
+## Page visits
 <div align="center">
  
- ![adlered](https://count.getloli.com/get/@lengyingmofeng)
+![adlered](https://count.getloli.com/get/@lengyingmofeng)
 <img  src="https://raw.githubusercontent.com/lengyingmofeng/imgs/main/imgs/pc.gif" alt="图像正在努力加载中.." style="width: 300px; height: 300px; display: init-block ;margin:10px auto;border:2px dashed blue;"/>
 </div>
 
