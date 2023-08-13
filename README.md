@@ -5,11 +5,11 @@
 - I've been busy recently
 - 💬If you're interested me, You can here
 
-## 今年汇总 ✨
+## Code submission this year ✨
 
  <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=lengyingmofeng&hide_title=true&hide_border=tru&show_icons=false&include_all_commits=true&line_height=21&bg_color=0000&text_color=8A919F&locale=cn" /> <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengyingmofeng&hide_title=true&hide=html&layout=compact&bg_color=0000&text_color=8A919F&locale=cn" />
 
-## 本月学习时间
+## Study time of this month
 <!--START_SECTION:waka-->
 
 ```txt
@@ -25,7 +25,7 @@ GitIgnore file   10 mins         -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
-## 当前页面访问计数
+## Page visits
 
 <div align="center">
  
