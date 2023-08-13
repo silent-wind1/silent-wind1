@@ -11,6 +11,19 @@
 
 ## 今日代码量
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 July 2023 - To: 12 August 2023
+
+Total Time: 14 hrs 36 mins
+
+Java             12 hrs 30 mins  #####################----   85.68 %
+XML              45 mins         #------------------------   05.23 %
+YAML             45 mins         #------------------------   05.22 %
+Python           14 mins         -------------------------   01.61 %
+GitIgnore file   10 mins         -------------------------   01.16 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 当前页面访问计数
