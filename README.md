@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2023 - To: 12 August 2023
+From: 14 July 2023 - To: 13 August 2023
 
-Total Time: 14 hrs 36 mins
+Total Time: 14 hrs 26 mins
 
-Java             12 hrs 30 mins  #####################----   85.68 %
-XML              45 mins         #------------------------   05.23 %
-YAML             45 mins         #------------------------   05.22 %
-Python           14 mins         -------------------------   01.61 %
-GitIgnore file   10 mins         -------------------------   01.16 %
+Java             11 hrs 44 mins  ####################-----   81.32 %
+XML              1 hr 11 mins    ##-----------------------   08.24 %
+YAML             46 mins         #------------------------   05.42 %
+Python           14 mins         -------------------------   01.72 %
+GitIgnore file   10 mins         -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
