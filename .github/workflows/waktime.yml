@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 16 am UTC = Asia/Shanghai - 8 
-    - cron: '0 16 * * *'
+    # Runs at 22:00. Actions schedules run at most every 5 minutes using UTC time. Learn more
+    - cron: '0 22 * * *'
 
 jobs:
   update-readme:
