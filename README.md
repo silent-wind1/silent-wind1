@@ -2,13 +2,9 @@
 <h1  align="center">Hi there 👋</h1>
 
 
-<p align="center">
  
 [![wakatime](https://wakatime.com/badge/user/8c8d3e5e-debe-4784-a9bd-e5ab40c405f6.svg)](https://wakatime.com/@8c8d3e5e-debe-4784-a9bd-e5ab40c405f6)
-[![github](https://img.shields.io/github/followers/silent-wind1?logo=github&style=plastic)](https://github.com/silent-wind1?tab=followers)
-[![twitter](https://img.shields.io/twitter/follow/leaf_wind_up?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/@leaf_wind_up)
 
-</p>
 
 - You can call me yefeng
 - I've been busy recently
