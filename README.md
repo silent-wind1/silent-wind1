@@ -4,10 +4,11 @@
 <div align="center">
   
 The length of my code: [![wakatime](https://wakatime.com/badge/user/8c8d3e5e-debe-4784-a9bd-e5ab40c405f6.svg)](https://wakatime.com/@8c8d3e5e-debe-4784-a9bd-e5ab40c405f6)
+
 </div>
  
 - You can call me yefeng 
-- I've been busy recently
+- I usually keep some study notes here on a regular basis.
 - 💬If you're interested me, You can here
 
 
