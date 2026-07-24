@@ -22,15 +22,15 @@ The length of my code: [![wakatime](https://wakatime.com/badge/user/8c8d3e5e-deb
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 21 July 2026
+From: 23 June 2026 - To: 23 July 2026
 
-Total Time: 36 hrs 33 mins
+Total Time: 33 hrs 40 mins
 
-Java               19 hrs 18 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.83 %
-YAML               4 hrs 48 mins         🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.13 %
-Markdown           4 hrs 19 mins         🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.83 %
-XML                2 hrs 51 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.81 %
-Other              1 hr 13 mins          🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.36 %
+Java               17 hrs 36 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.32 %
+YAML               4 hrs 40 mins         🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.90 %
+Markdown           3 hrs 34 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.63 %
+XML                2 hrs 43 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.08 %
+Other              1 hr 23 mins          🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.11 %
 ```
 
 <!--END_SECTION:waka-->
