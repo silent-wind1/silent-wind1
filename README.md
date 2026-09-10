@@ -16,12 +16,12 @@ The length of my code: [![wakatime](https://wakatime.com/badge/user/8c8d3e5e-deb
 <div align="center">
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=silent-wind1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=00000000&text_color=8A919F&locale=cn"
+    src="https://github-stats-extended.vercel.app/api?username=silent-wind1&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=00000000&amp;text_color=8A919F&amp;locale=cn"
     alt="GitHub Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-wind1&hide_border=true&hide_title=true&layout=compact&hide=html,css&langs_count=8&bg_color=00000000&text_color=8A919F&locale=cn"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=silent-wind1&amp;hide_border=true&amp;hide_title=true&amp;layout=compact&amp;hide=html,css&amp;langs_count=8&amp;bg_color=00000000&amp;text_color=8A919F&amp;locale=cn"
     alt="Top Languages"
   />
 </div>
